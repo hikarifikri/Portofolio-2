@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am an Informatics graduate from Universitas Singaperbangsa Karawang with a passion for data analysis, UI design, and front-end development. I have experience creating user-centered interfaces and analyzing data to support strategic decisions. As President of the Student Legislative Body, I strengthened my leadership and communication skills. I am eager to contribute to impactful, technology-driven projects.",
+    "I am an Informatics graduate from Universitas Singaperbangsa Karawang with a passion for data analysis, UI design, and front-end development. I have experience creating user-centered interfaces and analyzing data to support strategic decisions. As President of the Badan Legislative Mahasiswa Fakultas Ilmu Komputer Universitas Singaperbangsa Karawang, I strengthened my leadership and communication skills. I am eager to contribute to impactful, technology-driven projects.",
   github: "https://github.com/hikarifikri",
   resume:
     "https://drive.google.com/file/d/1O0Rdhp4ZNq4vtyR1icJHmDdO8D8dMJGC/view?usp=sharing",
