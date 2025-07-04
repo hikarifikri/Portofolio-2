@@ -250,7 +250,7 @@ export const education = [
     school: "Singaperbangsa Karawang University",
     date: "Sept 2021 - Mei 2025",
     grade: "3.89 GPA",
-    desc: "I am an Informatics graduate from the Faculty of Computer Science, Universitas Singaperbangsa Karawang, with strong interest in leadership, data analysis, UI design, and front-end development. I have experience in building responsive interfaces, designing user-centered solutions, and analyzing data to support digital decision-making. I also served for two years in the Student Legislative Body (BLM Fasilkom Unsika), including one term as President of the BLM, where I developed leadership, coordination, and communication skills. I am eager to contribute to projects that combine technology, innovation, and impact.",
+    desc: "I am an Informatics graduate from the Faculty of Computer Science, Universitas Singaperbangsa Karawang, with strong interest in leadership, data analysis, UI design, and front-end development. I have experience in building responsive interfaces, designing user-centered solutions, and analyzing data to support digital decision-making. I also served for two years in the Badan Legislative Mahasiswa (BLM Fasilkom Unsika), including one term as President of the BLM, where I developed leadership, coordination, and communication skills. I am eager to contribute to projects that combine technology, innovation, and impact.",
     degree: "Bachelor of Computer Science - BCS",
   },
   {
