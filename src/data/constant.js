@@ -178,7 +178,7 @@ export const experiences = [
 //   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://yt3.googleusercontent.com/ytc/AIdro_m1AnBwtMLM8P7MBtz72g19-YT_yuK0x0iqav8ZnTUVGQ=s900-c-k-c0x00ffffff-no-rj",
     role: "Data & Software Engineering",
     company: "PT. Revolusi Cita Edukasi (RevoU)",
     date: "Aug 2023 - Dec 2023",
