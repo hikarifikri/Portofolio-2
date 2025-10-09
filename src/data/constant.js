@@ -143,6 +143,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/C560BAQFvsA8rSTT6Uw/company-logo_200_200/company-logo_200_200/0/1630666964368/pt__mastersystem_infotama_logo?e=2147483647&v=beta&t=nJyQShj_U99VetbcngjE6YvL6XTCNH20KKbmu9xecjo",
+    role: "Network Engineer",
+    company: "Mastersystem Infotama",
+    date: "Oktober 2025 - Present",
+    desc: "Designing user-centered interfaces to improve usability, developing an efficient backend workflow to enhance system performance, and collaborating with data and content teams to keep the system relevant and accurate.",
+    skills: [
+        "Configuring Network",
+        "Monitoring performance",
+        "Troubleshooting",
+        "Secure Connectivity"
+    ],
+    // doc: "https://media.licdn.com/dms/image/v2/D5622AQHFtCly5ce48w/feedshare-shrink_800/B56ZdnS037HEAw-/0/1749784679159?e=1754524800&v=beta&t=5oNpNZGfJE1_BMSKJB3EO7jwfNuA7lk8_E5ZWRmTZZI",
+  },
+  {
+    id: 1,
     img: "https://diskominfo.tangerangkota.go.id/assets/uploads/agenda_photo_20220329_1648526828.png",
     role: "Software Engineer Intern",
     company: "Dinas Komunikasi dan Informatika Kota Tangerang",
@@ -177,7 +192,7 @@ export const experiences = [
 //     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
 //   },
   {
-    id: 1,
+    id: 2,
     img: "https://yt3.googleusercontent.com/ytc/AIdro_m1AnBwtMLM8P7MBtz72g19-YT_yuK0x0iqav8ZnTUVGQ=s900-c-k-c0x00ffffff-no-rj",
     role: "Data & Software Engineering",
     company: "PT. Revolusi Cita Edukasi (RevoU)",
