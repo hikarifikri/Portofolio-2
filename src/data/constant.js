@@ -158,7 +158,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://diskominfo.tangerangkota.go.id/assets/uploads/agenda_photo_20220329_1648526828.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6OHuTDgGe0mD2BPPzksn5v1ChO7ZaKCHgA&s",
     role: "Software Engineer Intern",
     company: "Dinas Komunikasi dan Informatika Kota Tangerang",
     date: "Feb 2025 - Apr 2025",
@@ -171,7 +171,7 @@ export const experiences = [
         "Tailwind",
         "Figma"
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D5622AQHFtCly5ce48w/feedshare-shrink_800/B56ZdnS037HEAw-/0/1749784679159?e=1754524800&v=beta&t=5oNpNZGfJE1_BMSKJB3EO7jwfNuA7lk8_E5ZWRmTZZI",
+    doc: "",
   },
 //   {
 //     id: 0,
@@ -211,7 +211,7 @@ export const experiences = [
       "MySQL",
       "Leadership"
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D5622AQGxCbXzrLCpfg/feedshare-shrink_800/B56ZdnPJEvHEAg-/0/1749783712796?e=1754524800&v=beta&t=eLqX3KxJiZ3nXm7vwC_JfDKD0zKhTPcwqRDXZOFeVYU",
+    doc: "",
   },
 //   {
 //     id: 2,
