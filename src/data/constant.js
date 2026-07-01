@@ -198,7 +198,11 @@ export const experiences = [
   },
   {
     id: 1,
+
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCTIkhU_HJHRooXpgDWzAxDhPdA8_n1S1fu7tO3tlaA&s=10",
+
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6OHuTDgGe0mD2BPPzksn5v1ChO7ZaKCHgA&s",
+
     role: "Software Engineer Intern",
     company: "Dinas Komunikasi dan Informatika Kota Tangerang",
     date: "Feb 2025 - Apr 2025",
