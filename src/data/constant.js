@@ -8,7 +8,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am an Informatics graduate from Universitas Singaperbangsa Karawang with a passion for Network Engineering, data analysis, UI design, and front-end development. I have experience creating user-centered interfaces and analyzing data to support strategic decisions. Currently, I am serving as a Network Maintenance Engineer for a project at Bank Indonesia, ensuring optimal network performance and reliability. Previously, as President of the Student Legislative Body (BLM Fasilkom Unsika), I honed my leadership and communication skills. I am eager to continue contributing to impactful, technology-driven projects.",
+    "Versatile Informatics professional currently managing network maintenance projects at Bank Indonesia. Experienced in network engineering, data analysis, and frontend development, further honed during my time as a Software Engineer intern at the Department of Communication and Informatics of Tangerang City. Proven leadership track record as President of the Student Legislative Board at Universitas Singaperbangsa Karawang. Eager to bring my diverse technical skill set to impactful, technology-driven initiatives",
   github: "https://github.com/hikarifikri",
   resume:
     "https://drive.google.com/file/d/1O00QhXMoNh5dHcNWmyabKkP5Jt4Px97M/view?usp=sharing",
