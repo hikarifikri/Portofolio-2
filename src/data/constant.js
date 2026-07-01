@@ -166,11 +166,11 @@ export const skills = [
         image:
           "https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000",
       },
-      {
-        name: "Google Slides",
-        image:
-          "https://img.icons8.com/?size=100&id=30462&format=png&color=000000",
-      },
+      // {
+      //   name: "Google Slides",
+      //   image:
+      //     "https://img.icons8.com/?size=100&id=30462&format=png&color=000000",
+      // },
       {
         name: "Figma",
         image:
