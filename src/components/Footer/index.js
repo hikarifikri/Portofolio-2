@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Fikri Maulana Setiawan. All rights reserved.
+          &copy; 2026 Fikri Maulana Setiawan. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

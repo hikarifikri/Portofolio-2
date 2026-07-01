@@ -1,21 +1,61 @@
 export const Bio = {
   name: "Fikri Maulana Setiawan",
   roles: [
+    "Network Engineer",
     "Software Engineer",
     "Data Analyst",
     "UI/UX Designer",
     "Programmer",
   ],
   description:
-    "I am an Informatics graduate from Universitas Singaperbangsa Karawang with a passion for data analysis, UI design, and front-end development. I have experience creating user-centered interfaces and analyzing data to support strategic decisions. As President of the Badan Legislative Mahasiswa Fakultas Ilmu Komputer Universitas Singaperbangsa Karawang, I strengthened my leadership and communication skills. I am eager to contribute to impactful, technology-driven projects.",
+    "I am an Informatics graduate from Universitas Singaperbangsa Karawang with a passion for Network Engineering, data analysis, UI design, and front-end development. I have experience creating user-centered interfaces and analyzing data to support strategic decisions. Currently, I am serving as a Network Maintenance Engineer for a project at Bank Indonesia, ensuring optimal network performance and reliability. Previously, as President of the Student Legislative Body (BLM Fasilkom Unsika), I honed my leadership and communication skills. I am eager to continue contributing to impactful, technology-driven projects.",
   github: "https://github.com/hikarifikri",
   resume:
-    "https://drive.google.com/file/d/1O0Rdhp4ZNq4vtyR1icJHmDdO8D8dMJGC/view?usp=sharing",
+    "https://drive.google.com/file/d/1O00QhXMoNh5dHcNWmyabKkP5Jt4Px97M/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   insta: "https://www.instagram.com/fik.250/",
 };
 
 export const skills = [
+  {
+    title: "Network Engineer",
+    skills: [
+      {
+        name: "Cisco Application Centric Infrastructure (ACI)",
+        image:
+          "https://alln-extcloud-storage-01.cisco.com/ACI_App_Center:ACI-PRD-T/catalog/product/cache/67b40ad19abdf9b566f26db2b5cdbcd9/3/9/39f87234f1e78c38b99ba859b28330f3UIAssetsbasepackage.png",
+      },
+      {
+        name: "VLAN",
+        image:
+          "",
+      },
+      {
+        name: "Enterprise Network Monitoring",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HYGwMfBJibZD2C4mCxIunt2VMUGOMnMnTEdn_0RgPQ&s=10",
+      },
+      {
+        name: "Network Troubleshooting",
+        image: "",
+      },
+      {
+        name: "Routing",
+        image:
+          "",
+      },
+      // {
+      //   name: "JavaScript",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      // },
+      // {
+      //   name: "Bootstrap",
+      //   image:
+      //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      // },
+    ],
+  },
   {
     title: "Frontend",
     skills: [
@@ -158,7 +198,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://diskominfo.tangerangkota.go.id/assets/uploads/agenda_photo_20220329_1648526828.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCTIkhU_HJHRooXpgDWzAxDhPdA8_n1S1fu7tO3tlaA&s=10",
     role: "Software Engineer Intern",
     company: "Dinas Komunikasi dan Informatika Kota Tangerang",
     date: "Feb 2025 - Apr 2025",
@@ -171,7 +211,7 @@ export const experiences = [
         "Tailwind",
         "Figma"
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D5622AQHFtCly5ce48w/feedshare-shrink_800/B56ZdnS037HEAw-/0/1749784679159?e=1754524800&v=beta&t=5oNpNZGfJE1_BMSKJB3EO7jwfNuA7lk8_E5ZWRmTZZI",
+    doc: "",
   },
 //   {
 //     id: 0,
@@ -211,7 +251,7 @@ export const experiences = [
       "MySQL",
       "Leadership"
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D5622AQGxCbXzrLCpfg/feedshare-shrink_800/B56ZdnPJEvHEAg-/0/1749783712796?e=1754524800&v=beta&t=eLqX3KxJiZ3nXm7vwC_JfDKD0zKhTPcwqRDXZOFeVYU",
+    doc: "",
   },
 //   {
 //     id: 2,
